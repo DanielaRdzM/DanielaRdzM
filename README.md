@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola! soy Daniela, Lic. en Tecnologías y Sistemas 👋
 
 <!--
 **DanielaRdzM/DanielaRdzM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
