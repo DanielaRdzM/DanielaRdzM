@@ -1,6 +1,6 @@
 ### ¡Hola! soy Daniela, Lic. en Tecnologías y Sistemas 👋
 
-Backend Developer Jr
+Backend Developer
 
 ### Sobre mí
 
