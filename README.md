@@ -2,7 +2,9 @@
 
 Backend Developer Jr
 
-### Sobre mi 
+### Sobre mí
+
+### Tecbologías de interés 
 
 <!--
 **DanielaRdzM/DanielaRdzM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
