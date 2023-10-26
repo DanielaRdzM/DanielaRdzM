@@ -5,7 +5,7 @@ Backend Developer
 ## Sobre mí
 
 Soy una persona capaz de ***resolver los problemas*** que se presenten y ***proponer soluciones innovadoras*** de manera ***colectiva*** e ***individual***,
-me gusta poner a prueba mis conocimientos y habilidades creado ***nuevos proyectos*** que me permitan ***seguir aprendiendo*** y adquirir más conocimiento en tecnología.
+me gusta poner a prueba mis conocimientos y habilidades creado ***nuevos proyectos*** que me permitan ***seguir aprendiendo*** y adquirir más ***conocimiento en tecnología***.
 
 ## Tecnologías de interés 
 
