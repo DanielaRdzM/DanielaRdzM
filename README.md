@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Daniela, Lic. en Tecnologías y Sistemas 
 
-Backend Developer
-
 ## Sobre mí
 
 Soy una persona capaz de ***resolver los problemas*** que se presenten y ***proponer soluciones innovadoras*** de manera ***colectiva*** e ***individual***,
