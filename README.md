@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Daniela, Lic. en Tecnologías y Sistemas 
 
-Desarrolladora Backend Jr
+### Desarrolladora Backend Jr
 
 ## Sobre mí
 
@@ -8,10 +8,11 @@ Soy ***Desarrolladora Backend Jr*** con un año de experiencia en la creación d
 así como en el desarrollo de ***APIs de consola*** en ***C#*** nativo y con framework ***.NET*** 
 
 Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
+
 He trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos 
 <br>de facturación provenientes de ***Mercado Libre*** y ***Mercado Pago***.
 
-Además, he participado en todas las fases del ***ciclo de vida del desarrollo de software***, desde la ***estimación de tiempos***, ***análisis de requerimientos***, ***mapeo de procesos***, 
+Cuento con experiencia en todas las fases del ***ciclo de vida del desarrollo de software***, desde la ***estimación de tiempos***, ***análisis de requerimientos***, ***mapeo de procesos***, 
 ***desarrollo de la aplicación***, ***pruebas unitarias***, ***implementación*** y ***documentación***.
 
 Me apasiona la ***tecnología*** y disfruto ***trabajar en equipo***, resolviendo problemas y ***proponiendo soluciones innovadoras***. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis
