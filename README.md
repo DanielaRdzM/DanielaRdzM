@@ -1,11 +1,22 @@
 # ¡Hola! 👋 Soy Daniela, Lic. en Tecnologías y Sistemas 
 
-Backend Developer
+Desarrollador Backend Jr 
 
 ## Sobre mí
 
-Soy una persona capaz de ***resolver los problemas*** que se presenten y ***proponer soluciones innovadoras*** de manera ***colectiva*** e ***individual***,
-me gusta poner a prueba mis conocimientos y habilidades creado ***nuevos proyectos*** que me permitan ***seguir aprendiendo*** y adquirir más ***conocimiento en tecnología***.
+Soy ***Desarrolladora Backend Jr*** con un año de experiencia en la creación de ***microservicios*** en ***Java*** y ***APIs REST*** utilizando los framworks ***Spring Boot y Maven***, 
+así como en el desarrollo de ***APIs de consola*** en ***C#*** nativo y con el framework ***.NET***
+Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
+He trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos de facturación provenientes de ***Mercado Libre*** y ***Mercado Pago***.
+
+Además, he participado en todas las fases del ***ciclo de vida del desarrollo de software***, desde la ***estimación de tiempos***, ***análisis de requerimientos***, ***mapeo de procesos***, 
+***desarrollo de la aplicación***, ***pruebas unitarias***, ***implementación*** y ***documentación***.
+
+Me apasiona la ***tecnología*** y disfruto ***trabajar en equipo***, resolviendo problemas y ***proponiendo soluciones innovadoras***. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis habilidades y conocimientos.
+
+Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que he desarrollado en ***Java***, ***C#*** y ***SQL***.
+
+
 
 ## Tecnologías de interés 
 
