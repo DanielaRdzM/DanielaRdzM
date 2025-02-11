@@ -13,8 +13,7 @@ Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***op
 Cuento con experiencia en todas las fases del ***ciclo de vida del desarrollo de software***, desde la ***estimación de tiempos***, ***análisis de requerimientos***, ***mapeo de procesos***, 
 ***desarrollo de la aplicación***, ***pruebas unitarias***, ***implementación*** y ***documentación***.
 
-Me apasiona la ***tecnología*** y disfruto ***trabajar en equipo***, resolviendo problemas y ***proponiendo soluciones innovadoras***. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis
-habilidades y conocimientos.
+Me apasiona la ***tecnología*** y disfruto ***trabajar en equipo***, resolviendo problemas y ***proponiendo soluciones innovadoras***. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis <br>habilidades y conocimientos.
 
 Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que he desarrollado en ***Java***, ***C#*** y ***SQL***.
 
