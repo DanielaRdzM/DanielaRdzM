@@ -2,7 +2,7 @@
 
 ## Desarrolladora Backend Jr.
 
-## Sobre mí
+### Sobre mí
 
 Soy ***Desarrolladora Backend Jr*** con un año de experiencia en la creación de ***microservicios*** en ***Java*** y ***APIs REST*** utilizando los framworks ***Spring Boot y Maven***, 
 así como en el desarrollo de ***APIs de consola*** en ***C#*** nativo y con framework ***.NET***, he trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos 
@@ -19,7 +19,7 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
 
 
 
-## Tecnologías de interés 
+### Tecnologías de interés 
 
 #### Lenguajes de Programación 
 
