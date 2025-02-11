@@ -6,7 +6,7 @@
 
 Soy ***Desarrolladora Backend Jr*** con un año de experiencia en la creación de ***microservicios*** en ***Java*** y ***APIs REST*** utilizando los framworks ***Spring Boot y Maven***, 
 así como en el desarrollo de ***APIs de consola*** en ***C#*** nativo y con framework ***.NET***. Tengo experiencia en el despliegue de aplicaciones Java en ***Apache Tomcat*** y de aplicaciones <br>C# en ***IIS***. He trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos 
-de facturación provenientes de ***Mercado Libre*** y ***Mercado Pago***.
+de facturación <br>provenientes de ***Mercado Libre*** y ***Mercado Pago***.
 
 Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
 
