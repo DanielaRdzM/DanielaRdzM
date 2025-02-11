@@ -9,7 +9,8 @@ así como en el desarrollo de ***APIs de consola*** en ***C#*** nativo y con
 el framework ***.NET***
 
 Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
-He trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos de facturación provenientes de ***Mercado Libre*** y ***Mercado Pago***.
+He trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos 
+de facturación provenientes de ***Mercado Libre*** y ***Mercado Pago***.
 
 Además, he participado en todas las fases del ***ciclo de vida del desarrollo de software***, desde la ***estimación de tiempos***, ***análisis de requerimientos***, ***mapeo de procesos***, 
 ***desarrollo de la aplicación***, ***pruebas unitarias***, ***implementación*** y ***documentación***.
