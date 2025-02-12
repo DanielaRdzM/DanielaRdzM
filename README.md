@@ -33,7 +33,7 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="maven" width="40" height="40"/> </a> 
 
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="maven" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/es-es/dotnet/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="net" width="40" height="40"/> </a>
 </p>
 
 #### Bases de Datos
