@@ -42,3 +42,7 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="60" height="40"/> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="60" height="40"/> </a>
 </p>
+
+#### Nubes
+
+#### Análisis de Datos
