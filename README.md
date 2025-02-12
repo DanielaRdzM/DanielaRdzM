@@ -34,6 +34,8 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
   <a href="[https://nodejs.org/docs/latest/api/](https://www.php.net/docs.php)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="50" height="40"/> </a>
 </p>
 
+####  Frontend
+
 #### Bases de Datos
 <p align="left"> 
   </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="60" height="40"/> </a>
@@ -41,9 +43,9 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="60" height="40"/> </a>
 </p>
 
-#### Análisis de Datos
+#### Business Intelligence
 
-#### Nubes
+#### Cloud
 
 #### Herramientas de Gestión de Versiones
 
