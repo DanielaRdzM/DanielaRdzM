@@ -9,22 +9,28 @@
   frameworks <strong>Spring Boot</strong> y <strong>Maven</strong>, así como en el desarrollo de <strong>APIs de consola</strong> y <strong>APIs REST</strong> en <strong>C#</strong> nativo y con el framework
   <strong>.NET</strong>. Tengo experiencia en el consumo y prueba de APIs con <strong>Postman</strong> para asegurar la correcta comunicación entre servicios y despliegue de aplicaciones Java en <strong>Apache
   Tomcat</strong> y de aplicaciones C# en <strong>IIS</strong>. He trabajado en <strong>integraciones</strong> con <strong>SAP</strong>, utilizando su <strong>SDK</strong> para insertar datos de facturación
-  provenientes de Mercado Libre y Mercado Pago.
+  provenientes de Mercado Libre y Mercado Pago. Poseo amplios conocimientos en <strong>SQL</strong>, que incluyen la <strong>creación</strong> y <strong>optimización</strong> de <strong>consultas</strong>, 
+  <strong>vistas</strong>, <strong>procedimientos almacenados</strong>, así como el desarrollo de <strong>triggers</strong> y <strong>funciones</strong>.
 </div>
+
+<br>
 
 <div align="justify">
-  Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
+ Cuento con experiencia en todas las fases del <strong>ciclo de vida del desarrollo de software</strong>, desde la planificación, estimación de tiempos, análisis de requerimientos, mapeo de procesos, hasta el 
+ desarrollo e implementación de la aplicación. Además, tengo experiencia en la realización de <strong>pruebas unitarias</strong>, <strong>documentación</strong> del proyecto y <strong>mantenimiento</strong> post-implementación, asegurando que el software se mantenga actualizado y funcione de acuerdo con las expectativas del cliente.
 </div>
 
+<br>
 
+<div align="justify">
+  Me apasiona la <strong>tecnología</strong> y disfruto <strong>trabajar en equipo</strong>, resolviendo problemas y <strong>proponiendo soluciones innovadoras</strong>. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis habilidades y conocimientos.
+</div>
 
-Cuento con experiencia en todas las fases del ***ciclo de vida del desarrollo de software***, desde la estimación de tiempos, análisis de requerimientos, mapeo de procesos, 
-desarrollo de la aplicación, pruebas unitarias, implementación y documentación.
+<br>
 
-Me apasiona la ***tecnología*** y disfruto ***trabajar en equipo***, resolviendo problemas y ***proponiendo soluciones innovadoras***. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis <br>habilidades y conocimientos.
-
-Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que he desarrollado en ***Java***, ***C#*** y ***SQL***.
-
+<div align="justify">
+  Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que he desarrollado en <strong>Java</strong>, <strong>C#</strong> y <strong>SQL</strong>.
+</div>
 
 ### Tecnologías de interés 
 
