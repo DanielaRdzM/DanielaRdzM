@@ -5,10 +5,18 @@
 ### Sobre mí
 
 <div align="justify">
-Soy <strong><em>Desarrolladora Backend Jr</em></strong> con un año de experiencia en la creación de <strong>microservicios</strong> en <strong>Java</strong> y <strong>APIs REST</strong> utilizando los frameworks <strong>Spring Boot</strong> y <strong>Maven</strong>, así como en el desarrollo de <strong>APIs de consola</strong> y <strong>APIs REST</strong en <strong>C#</strong> nativo y con el framework <strong>.NET</strong>. Tengo experiencia en el consumo y prueba de APIs con <strong>Postman</strong> para asegurar la correcta comunicación entre servicios y despliegue de aplicaciones Java en <strong>Apache Tomcat</strong> y de aplicaciones C# en <strong>IIS</strong>. He trabajado en <strong>integraciones</strong> con <strong>SAP</strong>, utilizando su <strong>SDK</strong> para insertar datos de facturación provenientes de Mercado Libre y Mercado Pago.
+  Soy <strong><em>Desarrolladora Backend Jr</em></strong> con un año de experiencia en la creación de <strong>microservicios</strong> en <strong>Java</strong> y <strong>APIs REST</strong> utilizando los
+  frameworks <strong>Spring Boot</strong> y <strong>Maven</strong>, así como en el desarrollo de <strong>APIs de consola</strong> y <strong>APIs REST</strong> en <strong>C#</strong> nativo y con el framework
+  <strong>.NET</strong>. Tengo experiencia en el consumo y prueba de APIs con <strong>Postman</strong> para asegurar la correcta comunicación entre servicios y despliegue de aplicaciones Java en <strong>Apache
+  Tomcat</strong> y de aplicaciones C# en <strong>IIS</strong>. He trabajado en <strong>integraciones</strong> con <strong>SAP</strong>, utilizando su <strong>SDK</strong> para insertar datos de facturación
+  provenientes de Mercado Libre y Mercado Pago.
 </div>
 
-Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
+<div align="justify">
+  Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
+</div>
+
+
 
 Cuento con experiencia en todas las fases del ***ciclo de vida del desarrollo de software***, desde la estimación de tiempos, análisis de requerimientos, mapeo de procesos, 
 desarrollo de la aplicación, pruebas unitarias, implementación y documentación.
