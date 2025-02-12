@@ -28,11 +28,14 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 </p>
 
-#### Desarrollo Backend 
+#### Backend 
 <p align="left">  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="50" height="40"/> </a> 
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="50" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/es-es/dotnet/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="net" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://docs.djangoproject.com/en/5.1/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="50" height="40"/> </a>
 </p>
 
@@ -43,6 +46,10 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="60" height="40"/> </a>
 </p>
 
+#### Análisis de Datos
+
 #### Nubes
 
-#### Análisis de Datos
+#### Herramientas de Gestión de Versiones
+
+#### Metodologías
