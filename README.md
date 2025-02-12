@@ -32,7 +32,7 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
   <a href="https://docs.djangoproject.com/en/5.1/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="50" height="40"/> </a>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodeja" width="50" height="40"/> </a>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="50" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="60" height="40"/> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="65" height="40"/> 
 </p>
 
 ####  Frontend
