@@ -6,12 +6,12 @@
 
 Soy ***Desarrolladora Backend Jr*** con un año de experiencia en la creación de ***microservicios*** en ***Java*** y ***APIs REST*** utilizando los framworks ***Spring Boot y Maven***, 
 así como en el desarrollo de ***APIs de consola*** en ***C#*** nativo y con framework ***.NET***. Tengo experiencia en el despliegue de aplicaciones Java en ***Apache Tomcat*** y de aplicaciones <br>C# en ***IIS***. He trabajado en ***integraciones*** con ***SAP***, utilizando su ***SDK*** para insertar datos 
-de facturación <br>provenientes de ***Mercado Libre*** y ***Mercado Pago***.
+de facturación <br>provenientes de Mercado Libre y Mercado Pago. Además, tengo experiencia en el consumo y prueba de APIs con ***Postman*** para asegurar la correcta comunicación entre servicios.
 
 Tengo sólidos conocimientos en ***SQL***, incluyendo la ***creación*** y ***optimización*** de ***consultas***, ***vistas***, ***procedimientos almacenados***, ***triggers*** y ***funciones***.
 
-Cuento con experiencia en todas las fases del ***ciclo de vida del desarrollo de software***, desde la ***estimación de tiempos***, ***análisis de requerimientos***, ***mapeo de procesos***, 
-***desarrollo de la aplicación***, ***pruebas unitarias***, ***implementación*** y ***documentación***.
+Cuento con experiencia en todas las fases del ***ciclo de vida del desarrollo de software***, desde la estimación de tiempos, análisis de requerimientos, mapeo de procesos, 
+desarrollo de la aplicación, pruebas unitarias, implementación y documentación.
 
 Me apasiona la ***tecnología*** y disfruto ***trabajar en equipo***, resolviendo problemas y ***proponiendo soluciones innovadoras***. Estoy motivada a seguir aprendiendo y desarrollando nuevos proyectos que fortalezcan mis <br>habilidades y conocimientos.
 
@@ -31,7 +31,8 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://docs.djangoproject.com/en/5.1/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="50" height="40"/> </a>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodeja" width="50" height="40"/> </a>
-  <a href="[https://nodejs.org/docs/latest/api/](https://www.php.net/docs.php)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="50" height="40"/> </a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="50" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="50" height="40"/> 
 </p>
 
 ####  Frontend
