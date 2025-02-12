@@ -31,7 +31,7 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
 #### Desarrollo Backend 
 <p align="left">  
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="45" height="55"/> </a> 
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="40" height="55"/> </a> 
   <a href="https://learn.microsoft.com/es-es/dotnet/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="net" width="40" height="40"/> </a>
   <a href="https://docs.djangoproject.com/en/5.1/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="50" height="40"/> </a>
 </p>
