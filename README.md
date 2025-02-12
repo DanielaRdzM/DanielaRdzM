@@ -24,14 +24,16 @@ Si quieres conocer más sobre mi trabajo, te invito a explorar los proyectos que
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 </p>
 
 #### Desarrollo Backend 
 <p align="left">  
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="maven" width="40" height="40"/> </a> 
+
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="maven" width="40" height="40"/> </a>
 </p>
 
 #### Bases de Datos
